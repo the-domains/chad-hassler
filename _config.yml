@@ -1,0 +1,14 @@
+layout_spectrum: 0.9897959
+typography_spectrum: 0.4860365
+color:
+  saturation: 0.4742213
+  lightness: 0.3019818
+  brandStrength: 0.248317
+  brandColors:
+    - '#1F1F27'
+    - '#B4ABA3'
+    - '#FFFBE0'
+    - '#77655C'
+    - '#6E92FA'
+  rhythmicContrast: 0.5837809
+name: Chad Hassler
